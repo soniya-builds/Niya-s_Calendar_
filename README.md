@@ -1,7 +1,7 @@
 # Niya's Calendar
 
 <p align="center">
-  <img src="./assets/calander.png" alt="Niya's Calendar Preview" width="260">
+  <img src="./assets/calender.png" alt="Niya's Calendar Preview" width="260">
 </p>
 
 <p align="center">
