@@ -1,13 +1,15 @@
 {
-  "name": "little-calendar",
-  "productName": "Little Calendar",
+  "name": "mini-calendar",
+  "productName": "Mini Calendar",
   "version": "1.0.0",
-  "description": "A minimal Electron calendar app",
+  "description": "A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS.",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
+  "author": "Soniya Akter",
+  "license": "MIT",
   "devDependencies": {
-    "electron": "^latest"
+    "electron": "^38.0.0"
   }
 }
