@@ -1,6 +1,6 @@
 {
   "name": "mini-calendar",
-  "productName": "Mini Calendar",
+  "productName": "Niya's Calendar",
   "version": "1.0.0",
   "description": "A simple desktop calendar app built with HTML, CSS, JavaScript, and ElectronJS.",
   "main": "main.js",
